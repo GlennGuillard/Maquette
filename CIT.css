@@ -1,0 +1,205 @@
+nav
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+nav ul
+{
+	list-style-type : none;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	background-color : Transparent;
+}
+
+nav a
+{
+	text-decoration : none;
+	color : black;
+	font-size : 24px;
+	display : block;
+	padding: 10px 16px 6px 16px ;
+}
+
+nav a:hover {
+	color : white;
+	background : black;
+}
+#images
+{
+display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+
+}
+#DE
+{padding: 0px 0px 250px 0px;
+	margin : 0px 0px 0px 0px;
+	width: 700px }
+
+#DA
+{padding: 0px 100px 0px 0px;
+	margin : 0px 0px 0px 0px;
+	display: flex;  
+    justify-content: right;
+	align-items : right;
+	flex-direction:column;
+	text-align: center;
+	}
+
+#DB
+{	display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row;
+	text-align: center;
+	}
+#DC
+{	display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row;
+	text-align: center;
+	}
+video {
+	max-width: 50%;
+	height: auto;
+}
+h1
+{display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row;
+	text-align: center;
+}
+#DZ
+{padding: 0px 200px 0px 0px;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+    justify-content: left;
+	align-items : left;
+	flex-direction:column;
+	text-align: center;
+	width: 500px }
+	#DS
+{	display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row-reverse;
+	text-align: center;
+	}
+	      .vertical-line{
+        border-left: 2px solid #000;
+        display: inline-block;
+        height: 450px;
+        margin: 0 20px;
+      }
+#SA
+{	display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row;
+	text-align: center;
+	}
+#SZ
+{width: 700px;
+padding: 0px 0px 0px 0px;}
+
+#DR
+{display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:column;
+	text-align: center;
+	padding: 0px 0px 0px 100px;}
+
+#DV
+{display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:row-reverse;
+	text-align: center;}
+	#DX
+	{display: flex;
+    justify-content: center;
+	align-items :center;
+	flex-direction:column;
+	text-align: center;
+	padding: 0px 100px 0px 0px;}
+
+#GFD
+{
+	display: flex;
+    justify-content: center;
+	align-items :center;	
+}
+#Chee
+{
+	display: flex;
+flex-direction: row;
+justify-content: center;
+	align-items : center;
+	text-align: center;
+font-style: italic;
+font-size: 18px;
+width: 500px;
+
+}
+#Bon
+{
+	display: flex;
+    justify-content: center;
+	align-items : center;
+	flex-direction:column;
+	text-align: center;
+	
+
+}
+#HXT
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+}
+#FG
+{flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 10px 0px 140px;
+font-size: 17px}
+#FGH
+{
+	flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 140px 0px 10px;
+font-size: 17px
+}
+#F
+{flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 118px 0px 118px;
+font-size: 17px;
+}
+
+#G
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+}
+#FG
+{flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 10px 0px 140px;
+font-size: 17px}
